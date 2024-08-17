@@ -1,2 +1,1 @@
-# yupi
-suiT x yupi
+suitsweet.github.io/suitsweet
