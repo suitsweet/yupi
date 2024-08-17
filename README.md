@@ -1,1 +1,1 @@
-suitsweet.github.io/suitsweet
+yupi.github.io/suitsweet
